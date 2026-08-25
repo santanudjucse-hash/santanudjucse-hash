@@ -13,18 +13,12 @@
 ### 🏅 GitHub Achievements & Highlights
 
 <p align="center">
-  <a href="https://github.com/santanudjucse-hash?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=santanudjucse-hash&theme=gruvbox&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
   <!-- GitHub Achievements Badges -->
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain-purple?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-orange?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-green?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Achievement-YOLO-red?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0088cc?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain-8a2be2?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-ff8c00?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO-e11d48?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
 </p>
 
 <p align="center">
