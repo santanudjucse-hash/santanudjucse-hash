@@ -72,6 +72,45 @@
 <br/>
 
 <!-- PHASE 5: CONTRIBUTION SNAKE & WORKFLOW STATUS -->
+
+<br/><br/>
+
+<!-- PHASE 4.5: FEATURED AI & MACHINE LEARNING PROJECTS -->
+### 🚀 Featured AI & Machine Learning Systems
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🎬 <a href="https://github.com/santanudjucse-hash/AI-Video-Assistant">AI Video Assistant</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ASR-Whisper-blue?style=flat-square" alt="Whisper" />
+        <img src="https://img.shields.io/badge/RAG-ChromaDB-red?style=flat-square" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/LLM-Mistral-orange?style=flat-square" alt="Mistral" />
+        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" alt="Streamlit" />
+      </p>
+      <ul>
+        <li>Multimodal meeting intelligence platform converting YouTube & video files into actionable insights.</li>
+        <li>Dual-engine transcription: local <b>OpenAI Whisper</b> & <b>Sarvam AI</b> (Hinglish/Indic speech-to-text translation).</li>
+        <li>Map-Reduce meeting summarization, automated action item extraction, and grounded <b>RAG Q&A chat</b> with ChromaDB.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🔬 <a href="https://github.com/santanudjucse-hash/Multi-Agent-Research-System">Multi-Agent Research System</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Multi--Agent-LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Search-Tavily%20API-00A67E?style=flat-square" alt="Tavily" />
+        <img src="https://img.shields.io/badge/Model-GPT--4o--mini-412991?style=flat-square" alt="GPT-4o-mini" />
+        <img src="https://img.shields.io/badge/Scraper-BS4-yellow?style=flat-square" alt="BS4" />
+      </p>
+      <ul>
+        <li>Autonomous 4-agent collaborative pipeline: Search Agent, Reader Agent, Writer Chain, and Critic Chain.</li>
+        <li>Performs live grounded web research via Tavily API and BeautifulSoup DOM decomposition.</li>
+        <li>Automated self-evaluation scoring and downloadable Markdown research reports.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 🐍 Contribution Activity Matrix
 
 <a href="https://github.com/santanudjucse-hash/santanudjucse-hash/actions/workflows/snake.yml">
