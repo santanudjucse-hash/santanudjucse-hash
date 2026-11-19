@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 <br/>
@@ -106,6 +107,32 @@
         <li>Autonomous 4-agent collaborative pipeline: Search Agent, Reader Agent, Writer Chain, and Critic Chain.</li>
         <li>Performs live grounded web research via Tavily API and BeautifulSoup DOM decomposition.</li>
         <li>Automated self-evaluation scoring and downloadable Markdown research reports.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- PHASE 4.6: FEATURED BUSINESS INTELLIGENCE & DATA ANALYTICS -->
+### 📊 Featured Business Intelligence & Analytics Systems
+
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h4 align="center">📈 <a href="https://github.com/santanudjucse-hash/Retail-Sales-Performance">Retail Sales &amp; Profitability Analytics</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/DAX-Measures_%26_KPIs-blue?style=flat-square" alt="DAX" />
+        <img src="https://img.shields.io/badge/Data_Modeling-Star_Schema-green?style=flat-square" alt="Star Schema" />
+        <img src="https://img.shields.io/badge/ETL-Power_Query_%28M%29-orange?style=flat-square" alt="Power Query" />
+        <img src="https://img.shields.io/badge/Python-Validation_%26_Audit-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      </p>
+      <ul>
+        <li>Interactive retail business intelligence dashboard analyzing <b>$550K+ in revenue</b> and <b>750+ orders</b> across 2 years (2023–2024).</li>
+        <li>Architected a normalized <b>Star Schema</b> data model with automated <b>Power Query (M)</b> data cleaning and dimension pipelines.</li>
+        <li>Implemented dynamic <b>DAX measures</b> for core KPI cards, MoM/YoY time intelligence, profit margin ratios, and Pareto categorization.</li>
+        <li>Includes end-to-end documentation, data modeling guides, Power BI dashboard file (<code>.pbix</code>), and automated Python test suite.</li>
       </ul>
     </td>
   </tr>
